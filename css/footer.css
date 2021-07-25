@@ -1,0 +1,15 @@
+.foot{
+	text-align: left;
+}
+
+.highlight {
+	color: #8f71ee;
+	font-weight: bolder;
+}
+
+.author { 
+	margin-top: 5px;
+	margin-bottom: 7px;
+	font-size: 10px;
+	font-weight: lighter;
+}
